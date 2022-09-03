@@ -1,6 +1,6 @@
 
 <script>
-const API_URL = `http://127.0.0.1:8088/live/list`
+const API_URL = `http://ratman.cc:8088/live/list`
 
 export default {
   data: () => ({
